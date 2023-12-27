@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/screenshots/Screenshot%202023-12-27%20182800.png)
-![](./assets/screenshots/active.png)
+![Active:](./assets/screenshots/active.png)
 
 ### Built with
 
